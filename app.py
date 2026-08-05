@@ -21,7 +21,7 @@ body{
     height:100vh;
 }
 .container{
-text-align:center;
+    text-align:center;
 }
 h2{
     font-size:2.5rem;
